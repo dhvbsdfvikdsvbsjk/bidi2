@@ -1,0 +1,10 @@
+C:\Users\usersql\Desktop\495495\eko\bin\Debug\eko.exe.config
+C:\Users\usersql\Desktop\495495\eko\bin\Debug\eko.exe
+C:\Users\usersql\Desktop\495495\eko\bin\Debug\eko.pdb
+C:\Users\usersql\Desktop\495495\eko\obj\Debug\eko.csproj.AssemblyReference.cache
+C:\Users\usersql\Desktop\495495\eko\obj\Debug\eko.Form1.resources
+C:\Users\usersql\Desktop\495495\eko\obj\Debug\eko.Properties.Resources.resources
+C:\Users\usersql\Desktop\495495\eko\obj\Debug\eko.csproj.GenerateResource.cache
+C:\Users\usersql\Desktop\495495\eko\obj\Debug\eko.csproj.CoreCompileInputs.cache
+C:\Users\usersql\Desktop\495495\eko\obj\Debug\eko.exe
+C:\Users\usersql\Desktop\495495\eko\obj\Debug\eko.pdb
